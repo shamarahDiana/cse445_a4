@@ -18,7 +18,7 @@
   <Hotel Rating="3.8">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-555-1234</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>University Dr</Street>
       <City>Tempe</City>
@@ -43,7 +43,7 @@
   <Hotel Rating="3.6">
     <Name>Broadway Suites</Name>
     <Phone>480-111-2222</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>456</Number>
       <Street>Broadway Rd</Street>
       <City>Mesa</City>
@@ -67,7 +67,7 @@
   <Hotel Rating="3.9">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
@@ -91,7 +91,7 @@
   <Hotel Rating="3.5">
     <Name>Best Western Inn</Name>
     <Phone>480-967-7800</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>670</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Tempe</City>
@@ -115,7 +115,7 @@
   <Hotel Rating="3.7">
     <Name>Residence Inn by Marriott</Name>
     <Phone>480-967-2300</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>510</Number>
       <Street>S Forest Ave</Street>
       <City>Tempe</City>
