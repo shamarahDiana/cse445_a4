@@ -27,5 +27,31 @@
     </Address>
   </Hotel>
 
-  <!-- add 8+ more Hotel blocks in the same format -->
+  <Hotel Rating="4.0">
+    <Name>Example Hotel</Name>
+    <Phone>480-000-0000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+
+  <Hotel Rating="3.6">
+    <Name>Broadway Suites</Name>
+    <Phone>480-111-2222</Phone>
+    <Address>
+      <Number>456</Number>
+      <Street>Broadway Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
+
+
 </Hotels>
+
