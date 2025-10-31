@@ -112,6 +112,19 @@
     </Address>
   </Hotel>
 
+  <Hotel Rating="3.7">
+    <Name>Residence Inn by Marriott</Name>
+    <Phone>480-967-2300</Phone>
+    <Address>
+      <Number>510</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+        
         
 
 </Hotels>
