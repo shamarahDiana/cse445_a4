@@ -39,7 +39,6 @@
     </Address>
   </Hotel>
 
-
   <Hotel Rating="3.6">
     <Name>Broadway Suites</Name>
     <Phone>480-111-2222</Phone>
@@ -123,9 +122,6 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-
-        
-        
 
 </Hotels>
 
