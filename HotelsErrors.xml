@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- (1) Root element wrong on purpose: should be <Hotels> -->
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:noNamespaceSchemaLocation="https://shamarahdiana.github.io/cse445_a4/Hotels.xsd"
+       xsi:noNamespaceSchemaLocation="https://shamarahdiana.github.io/cse445_a4/Hotels.xsd">
 
 
   <!-- (2) Missing required Rating attribute -->
